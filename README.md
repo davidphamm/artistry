@@ -1,4 +1,4 @@
-<img src="https://github.com/davidphamm/artistry/blob/main/artistry.gif" width="400" >
+<img src="https://github.com/davidphamm/artistry/blob/main/artistry.gif" width="800" >
 
 
 # Getting Started with Create React App
