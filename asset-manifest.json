@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/artistry/static/css/main.875ed233.css",
-    "main.js": "/artistry/static/js/main.3ed2630a.js",
+    "main.js": "/artistry/static/js/main.75a97cde.js",
     "static/media/paperRolls.mp4": "/artistry/static/media/paperRolls.48e258cb63c90d86e7a8.mp4",
     "index.html": "/artistry/index.html",
     "main.875ed233.css.map": "/artistry/static/css/main.875ed233.css.map",
-    "main.3ed2630a.js.map": "/artistry/static/js/main.3ed2630a.js.map"
+    "main.75a97cde.js.map": "/artistry/static/js/main.75a97cde.js.map"
   },
   "entrypoints": [
     "static/css/main.875ed233.css",
-    "static/js/main.3ed2630a.js"
+    "static/js/main.75a97cde.js"
   ]
 }
